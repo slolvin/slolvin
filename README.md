@@ -31,11 +31,6 @@ I am actively sharpening my skills in cloud-native technologies and infrastructu
 * **Gamification & Engagement:** User dashboards featuring drinking logs, statistics, and venue check-ins via **QR codes**.
 * **B2B CRM Panel:** A dedicated web application for bar managers providing item popularity analytics, menu management, and operation scheduling.
 
-<p align="center">
-  <img src="https://placeholder.com" width="230" alt="iOS App in Swift" />
-  <img src="https://placeholder.com" width="470" alt="Bootstrap CRM Panel" />
-</p>
-
 ---
 
 ## 📊 GitHub Metrics & Productivity
